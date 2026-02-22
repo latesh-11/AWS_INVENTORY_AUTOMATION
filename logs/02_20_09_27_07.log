@@ -1,2 +1,0 @@
-[ 2026-02-20 09:27:07,892 ] 11 - INFO - Starting the EC2 collection in region: eu-central-1
-[ 2026-02-20 09:27:07,896 ] 1392 - INFO - Found credentials in shared credentials file: ~/.aws/credentials

@@ -1,6 +1,0 @@
-[ 2026-02-20 09:32:05,769 ] 11 - INFO - Starting the EC2 collection in region: eu-central-1
-[ 2026-02-20 09:32:05,773 ] 1392 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
-[ 2026-02-20 09:32:07,705 ] 36 - INFO - Collected 2 EC2 instances
-[ 2026-02-20 09:32:07,707 ] 9 - INFO - Starting S3 bucket inventory
-[ 2026-02-20 09:32:13,721 ] 10 - INFO - Starting RDS collection in eu-central-1
-[ 2026-02-20 09:32:16,509 ] 40 - INFO - Collected 4 RDS instances
